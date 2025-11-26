@@ -12,7 +12,7 @@ Actively applying for research positions and PhD opportunities.
   👉 [Repository](https://github.com/jorgeturriate/SPIdepth-CL)
 
 - **Real-Time Gesture Recognition** — Dual-stream CNN (RGB + Optical Flow) for interactive video conferencing.  
-  👉 [Repository](https://github.com/jorgeturriate/Hand-Movement-Recognition)
+  👉 [Repository](https://github.com/jorgeturriate/HandMovementRecognition)
 
 
 - **YOLO + Kalman Filters Tracking** — Tennis ball segmentation and trajectory prediction.  
