@@ -9,7 +9,7 @@ Actively applying for research positions and PhD opportunities.
 
 - **SPIdepth Curriculum Learning** — Curriculum Learning for self-supervised and supervised MDE on KITTI & MidAir.  
   *PyTorch, UAV datasets, custom dataloaders, training pipelines.*  
-  👉 [Repository](https://github.com/jorgeturriate/SPIdepth-CL)
+  👉 [Repository](https://github.com/jorgeturriate/SPIdepth-training)
 
 - **Real-Time Gesture Recognition** — Dual-stream CNN (RGB + Optical Flow) for interactive video conferencing.  
   👉 [Repository](https://github.com/jorgeturriate/HandMovementRecognition)
