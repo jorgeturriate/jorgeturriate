@@ -11,14 +11,9 @@ Actively applying for research positions and PhD opportunities.
   *PyTorch, UAV datasets, custom dataloaders, training pipelines.*  
   👉 [Repository](https://github.com/jorgeturriate/SPIdepth-CL)
 
-- **3D Reconstruction (SfM + NeRFs)** — Reconstructed 3D objects and novel-view generation using PyTorch & COLMAP.  
-  👉 [Repository](https://github.com/...)
-
 - **Real-Time Gesture Recognition** — Dual-stream CNN (RGB + Optical Flow) for interactive video conferencing.  
   👉 [Repository](https://github.com/jorgeturriate/Hand-Movement-Recognition)
 
-- **VR Tower of Hanoi** — Three.js + VR API game running on Meta headsets.  
-  👉 [Repository](https://github.com/...)
 
 - **YOLO + Kalman Filters Tracking** — Tennis ball segmentation and trajectory prediction.  
   👉 [Repository](https://github.com/...)
