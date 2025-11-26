@@ -15,7 +15,7 @@ Actively applying for research positions and PhD opportunities.
   👉 [Repository](https://github.com/jorgeturriate/HandMovementRecognition)
 
 - **GAN Data Augmentation** — Tennis ball segmentation and trajectory prediction.  
-  👉 [Repository](https://github.com/jorgeturriate/)
+  👉 [Repository](https://github.com/jorgeturriate/GANsForDataAugmentation)
 
 - **YOLO + Kalman Filters Tracking** — Tennis ball segmentation and trajectory prediction.  
   👉 [Repository](https://github.com/jorgeturriate/VideoSegmentationWKallman)
