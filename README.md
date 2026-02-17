@@ -22,6 +22,9 @@ Actively applying for research positions and PhD opportunities.
   
 - **VR Tower of Hanoi** — Three.js + VR API game running on Meta headsets.
   👉 [Repository](https://github.com/jorgeturriate/VR_Tower_of_Hanoi)
+  
+- **3D Reconstruction (SfM + NeRFs)** — Reconstructed 3D objects and novel-view generation using PyTorch & COLMAP.  
+  👉 [Repository](https://github.com/...)
 
 ## 🔧 Technical Skills
 
