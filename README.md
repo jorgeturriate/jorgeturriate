@@ -24,7 +24,7 @@ Actively applying for research positions and PhD opportunities.
   👉 [Repository](https://github.com/jorgeturriate/VR_Tower_of_Hanoi)
   
 - **3D Reconstruction (SfM + NeRFs)** — Reconstructed 3D objects and novel-view generation using PyTorch & COLMAP.  
-  👉 [Repository](https://github.com/...)
+  👉 [Repository](https://github.com/jorgeturriate/3D_SFM_and_Nerfs)
 
 ## 🔧 Technical Skills
 
