@@ -19,6 +19,9 @@ Actively applying for research positions and PhD opportunities.
 
 - **YOLO + Kalman Filters Tracking** — Tennis ball segmentation and trajectory prediction.  
   👉 [Repository](https://github.com/jorgeturriate/VideoSegmentationWKallman)
+  
+  - **VR Tower of Hanoi** — Three.js + VR API game running on Meta headsets.
+  👉 [Repository](https://github.com/jorgeturriate/VR_Tower_of_Hanoi)
 
 ## 🔧 Technical Skills
 
