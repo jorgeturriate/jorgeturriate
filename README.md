@@ -14,7 +14,7 @@ Actively applying for research positions and PhD opportunities.
 - **Real-Time Gesture Recognition** — Dual-stream CNN (RGB + Optical Flow) for interactive video conferencing.  
   👉 [Repository](https://github.com/jorgeturriate/HandMovementRecognition)
 
-- **GAN Data Augmentation** — Tennis ball segmentation and trajectory prediction.  
+- **GAN Data Augmentation** — Synthetic generation to improve classifier performance..  
   👉 [Repository](https://github.com/jorgeturriate/GANsForDataAugmentation)
 
 - **YOLO + Kalman Filters Tracking** — Tennis ball segmentation and trajectory prediction.  
